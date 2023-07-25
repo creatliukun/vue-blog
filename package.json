@@ -1,0 +1,15 @@
+{
+  "name": "vue-blog-2023",
+  "version": "1.0.0",
+  "description": "这是我搭建的一个博客，为了让自己更加清醒，所以需要每天进行学习",
+  "main": "index.js",
+  "author": "liukun",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.9.9"
+  }
+}
